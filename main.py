@@ -8,7 +8,7 @@ import logging
 import asyncio
 from tasksio import TaskPool
 from datetime import datetime
-from pycoloring import color
+from pycolorings import color
 from lib.scraper import Scraper
 from aiohttp import ClientSession
 
